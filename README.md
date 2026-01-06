@@ -1,11 +1,11 @@
 # Internet Computer (IC) Development — Full Setup Guide
 Learn how to set up Internet Computer (DFINITY) development on Windows with WSL Ubuntu, Node 20, DFX, Motoko, and React.
 
-- **Platform:** Windows 10+ (WSL Ubuntu)
-- **Backend:** Motoko
-- **Frontend:** React
-- **Node Version:** 20.x (latest LTS compatible with dfx)
-- **DFX Version:** Latest stable (e.g., 0.30.x)
+ **Platform:** Windows 10+ (WSL Ubuntu)
+ **Backend:** Motoko
+ **Frontend:** React
+ **Node Version:** 20.x (latest LTS compatible with dfx)
+ **DFX Version:** Latest stable (e.g., 0.30.x)
 
 ---
 
