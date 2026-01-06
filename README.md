@@ -34,11 +34,6 @@ wsl --list --verbose
 
    * **Motoko language support** (Dfinity)
    * **Remote - WSL**
-3. Open VSCode inside WSL:
-
-```bash
-code .
-```
 
 ---
 
@@ -136,6 +131,13 @@ ls -R
 ---
 
 ## 8️⃣ Start Local IC Replica
+
+## ⚡ Open VSCode & Connect to WSL
+
+1. Open VSCode → `Ctrl+Shift+P` → **Remote-WSL: New Window** (connect to Ubuntu).  
+2. Install **Motoko language support** extension in WSL.  
+3. Open your `~/ic-projects/hello` folder in this WSL window.  
+
 
 Open **terminal 1** in VSCode:
 
