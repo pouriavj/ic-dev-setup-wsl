@@ -132,7 +132,7 @@ ls -R
 
 ## 8️⃣ Start Local IC Replica
 
-## ⚡ Open VSCode & Connect to WSL
+# ⚡ Open VSCode & Connect to WSL
 
 1. Open VSCode → `Ctrl+Shift+P` → **Remote-WSL: New Window** (connect to Ubuntu).  
 2. Install **Motoko language support** extension in WSL.  
