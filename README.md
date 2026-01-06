@@ -8,6 +8,20 @@
 
 ---
 
+### Quick start with the default `hello` project
+
+If you just want to **clone and run the `hello` project locally** on your WSL Ubuntu without going through the full IC setup, see the automatically generated README included in this project:
+
+➡ [`HELLO_README.md`](HELLO_README.md)
+
+This explains how to clone the repo and start the DFX canisters and frontend locally.
+
+---
+
+### Full IC + WSL Setup (Recommended for first-time users)
+
+If you want the **complete step-by-step setup** including WSL Ubuntu, Node 20, DFX installation, VSCode + Motoko extension, and automatic creation of the `hello` project, follow the guide below
+
 ## 1️⃣ Install WSL + Ubuntu
 
 1. Open **Windows PowerShell** as Administrator.
