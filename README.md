@@ -11,9 +11,9 @@
 ### Quick start with the default `hello` project
 
 If you just want to **clone and run the `hello` project locally** on your WSL Ubuntu without going through the full IC setup, see the automatically generated README included in this project:
-
-➡ [`HELLO_README.md`](HELLO_README.md)
-
+<ul>
+<li> [`HELLO_README.md`](HELLO_README.md) </li>
+</ul>
 This explains how to clone the repo and start the DFX canisters and frontend locally.
 
 ---
