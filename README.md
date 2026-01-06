@@ -7,6 +7,8 @@
 **DFX Version:** Latest stable (e.g., 0.30.x)
 
 ---
+Learn how to set up Internet Computer (DFINITY) development on Windows with WSL Ubuntu, Node 20, DFX, Motoko, and React.
+
 
 ### Quick start with the default `hello` project
 
