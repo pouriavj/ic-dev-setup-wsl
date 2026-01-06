@@ -186,19 +186,12 @@ Open browser at `http://localhost:8080/` to see your Hello DApp running.
 
 ## ✅ Notes / Tips
 
-* Always run `dfx start` in one terminal, `dfx deploy` in another, and `npm start` in a third.
-* Node 20 + latest DFX is stable and avoids old Node 16 issues.
+* Always run `dfx start` in one terminal, `dfx deploy` in another.
+* Node 20 + latest DFX is stable .
 * If webpack / cli errors happen, check Node version: `node -v`.
-* Keep WSL Ubuntu clean, remove old dfx or nvm installations if errors occur.
-* You can restart the terminal or run `source ~/.bashrc` after PATH changes.
+
 
 ---
-
-**End of Guide**
-
-
-
-
 
 
 # `hello`
