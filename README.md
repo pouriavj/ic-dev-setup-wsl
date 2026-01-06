@@ -4,7 +4,7 @@
 **Backend:** Motoko
 **Frontend:** React
 **Node Version:** 20.x (latest LTS compatible with dfx)
-**DFX Version:** Latest stable (e.g., 0.30.x / 0.13.x)
+**DFX Version:** Latest stable (e.g., 0.30.x )
 
 ---
 
