@@ -39,6 +39,8 @@ wsl --list --verbose
 
 ## 3️⃣ Install Homebrew in WSL
 
+Open Ubuntu
+
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
